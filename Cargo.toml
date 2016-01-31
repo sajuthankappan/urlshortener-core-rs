@@ -1,0 +1,13 @@
+[package]
+name = "urlshortener_core"
+version = "0.1.0"
+authors = ["Saju Thankappan <sajuthankappan@gmail.com>"]
+description = "Urlshortener core"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/sajuthankappan/urlshortener-core-rs"
+
+
+[dependencies]
+serde = "*"
+serde_json = "*"
+serde_macros = "*"
